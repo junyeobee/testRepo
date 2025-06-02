@@ -1,6 +1,7 @@
 public class TodoAppTest{
     public void todoApp(){
         // 테스트용 메소드
+        System.out.println("TodoApp 테스트 시작");
         int todoCount = 5; // 예시로 5개의 할 일이 있다고 가정
         // 할 일 목록을 출력
         System.out.println("할 일 목록:");
